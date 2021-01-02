@@ -4,13 +4,9 @@
 
 Chalkboard is an online learning platform that allows for live chat and video. This was a Capstone project built at Fullstack Academy.
 
-## Deployed App
+## [Deployed App](https://chalkboard-fsa.herokuapp.com/)
 
-https://chalkboard-fsa.herokuapp.com/
-
-## Video Demo
-
-https://youtu.be/3xJPDxcaET4
+## [Video Demo](https://youtu.be/3xJPDxcaET4)
 
 ### Features
 
@@ -68,10 +64,11 @@ From the Terminal/CLI of your choice:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-- I wish to express thanks to Fullstack Academy
-- Our Fellow and PM Jonah Ullman
-- Our Lead Instructor Travis Stratton
+- Thanks to:
+  - Fullstack Academy
+  - Our Fellow and PM Jonah Ullman
+  - Our Lead Instructor Travis Stratton
