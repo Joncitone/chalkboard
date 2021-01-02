@@ -46,6 +46,7 @@ git clone https://github.com/Joncitone/chalkboard.git
 ```
 cd chalkboard
 ```
+
 ### Installing
 
 ```
@@ -54,7 +55,7 @@ npm install
 ```
 
 ```
-create db chalkboard
+createdb chalkboard
 ```
 
 ```
