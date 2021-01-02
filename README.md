@@ -39,19 +39,19 @@ These instructions will get a copy of the project up and running on your local m
 
 From the Terminal/CLI of your choice:
 
-`git clone https://github.com/Joncitone/chalkboard.git`
+```git clone https://github.com/Joncitone/chalkboard.git```
 
-`cd chalkboard`
+```cd chalkboard```
 
 ### Installing
 
-`npm install`
+```npm install```
 
-`create db chalkboard`
+```create db chalkboard```
 
-`npm run seed`
+```npm run seed```
 
-`npm run start-dev`
+```npm run start-dev```
 
 ---
 
